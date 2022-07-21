@@ -32,3 +32,5 @@ You'll probably now need to fixup the fact that Strapi didn't alias oh-my-zsh fr
 ### 9. Open iterm and load the default profile from dropbox's default.json. 
 
 ### 10. Open vs code and turn on settings sync. Deselect ui-state. 
+
+### 11. Run ./macos from the dotfiles repo
