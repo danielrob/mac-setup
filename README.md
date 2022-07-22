@@ -34,3 +34,5 @@ You'll probably now need to fixup the fact that Strapi didn't alias oh-my-zsh fr
 ### 10. Open vs code and turn on settings sync. Deselect ui-state. 
 
 ### 11. Run ./macos from the dotfiles repo
+
+### 12. Add Bettersnap, Displaylink manager to login items under sysprefs->user groups. 
