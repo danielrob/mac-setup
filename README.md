@@ -8,7 +8,7 @@
 
 NOTE: Here you can optionally clone & run setup of your dotfiles (step 5/6) now and make sure oh-my-zsh is in place so that the dotfiles setup script from Strapi properly aliases ~/.oh-my-zsh to /dev/dotfiles/.oh-my-zsh. Upside: not sure where Strapi puts dotfiles when executing direct from https://github.com/danielrob/dotfiles. By doing it now, it means that /dev/dotfiles becomes your live dotfiles. Downsides: You'll end up doing step 5 twice/or having to manually preserve the .ssh folder between cloning dotfiles and running setup, or the .ssh folder will get overridden. You'll also need to install command tools. Some optimisation to do here! 
 
-### 4. Use [Strapi](https://macos-strap.herokuapp.com/) 
+### 4. Use [Strap](https://strap.mikemcquaid.com) 
 (Note: You may optionally edit https://github.com/danielrob/dotfiles and in particular https://github.com/danielrob/dotfiles/Brewfile) prior to running this). 
 
 ### 4 - manual: Complete manual steps as per https://github.com/danielrob/dotfiles/blob/master/script/strap-after-setup#L20
