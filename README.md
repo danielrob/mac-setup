@@ -25,7 +25,7 @@ $ git clone --recurse-submodules https://github.com/danielrob/dotfiles
 ```
 You'll probably now need to fixup the fact that Strapi didn't alias oh-my-zsh from your custom dotfiles since it's a submodule manually... see dotfiles/setup.sh script. You can ignore this if you completed step 5 & 6 before step 4. 
 
-### 7. Copy [https://github.com/danielrob/ohmyzsh/blob/master/custom/themes/agnoster-custom.zsh-theme](agnoster-custom.zsh-theme) to ~/.oh-my-zsh/custom/themes
+### 7. Copy [agnoster-custom.zsh-theme](https://github.com/danielrob/ohmyzsh/blob/master/custom/themes/agnoster-custom.zsh-theme) to ~/.oh-my-zsh/custom/themes
 
 ### 8. Copy fonts across to new computers font book from your personal dropbox. 
 
